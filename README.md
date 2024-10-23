@@ -1,9 +1,6 @@
 # state_management
 
 Flutter project to illustrate some state management packages.
-Best practice!
-
-
 
 ## [Live demo](https://glebosotov.github.io/flutter-education-state-management/)
 
