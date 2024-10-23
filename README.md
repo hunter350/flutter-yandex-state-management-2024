@@ -1,7 +1,7 @@
 # state_management
 
 Flutter project to illustrate some state management packages.
-
+Best practice!
 
 
 
